@@ -2,6 +2,7 @@
 Authors: Bilal Alawwir, Ibrahim Hussein, Majed Wakim, YiHui Wang
 ## Description
 The purpose of the project is to construct an algorithm which can navigate the rollbot through a course by following the black line.<br/>
+![](https://github.com/jameswyh/Programming_the_Arduino_Rollbot/blob/master/Rollbot_chart/IMG_5838.jpg)
 In this project we are going to use the sensors to detect the black line on the track. The rollbot is going to start on a black line perpendicular to the main line which the rollbot is going to follow through. The rollbot should follow the line and make any kind of turns for a number of laps clockwise and counter clockwise.
 > ”Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards can read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can program your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino program (based on C Language), and the Arduino Software (IDE).” 
 ## Flowchart
